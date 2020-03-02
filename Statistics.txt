@@ -1,0 +1,4 @@
+B occurs 1 times
+2 occurs 1 times
+3 occurs 1 times
+7 occurs 3 times
