@@ -1,10 +1,10 @@
-PUSH 5
-PUSH 2
+push 5
+push 2
 *
-PRINT
-PUSH 8
+print
+push 8
 *
-PRINT
-SQRT
-PRINT
+print
+sqrt
+print
 # haliluja haaaaaliluja hdhdhd

@@ -1,15 +1,23 @@
 package bruh;
 
-public class Sqrt implements Operation{
+import java.util.logging.Level;
+
+public class Sqrt implements Operation {
     @Override
     public void toDo(String[] command, Context context) {
-        Double a;
-        try{
+        Double a, res;
+        try {
             a = Double.parseDouble(context.popStack());
-        } catch (NullPointerException error){
-            a = context.getDefineValue(context.popStack());
+            res = Math.sqrt(a);
+            context.pushStack(res.toString());
+        } catch (NumberFormatException | NullPointerException error) {
+            a = context.defines.get(context.popStack());
+            if (a == null) {
+                Calculator.logger.log(Level.WARNING, "Try to sqrt nothing");
+            } else {
+                res = Math.sqrt(a);
+                context.pushStack(res.toString());
+            }
         }
-        Double res = Math.sqrt(a);
-        context.pushStack(res.toString());
     }
 }

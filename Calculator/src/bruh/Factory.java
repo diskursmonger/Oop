@@ -5,39 +5,46 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.util.HashMap;
 import java.util.Properties;
-import java.util.Scanner;
+import java.util.logging.Level;
 
 public class Factory {
     HashMap<String, String> operations;
-    public Factory(String config) throws IOException {
+
+    public Factory(String config) {
         operations = new HashMap<>();
         ClassLoader classLoader = getClass().getClassLoader();
-        InputStream inputStream = classLoader.getResourceAsStream(config);
-        Properties properties = new Properties();
-        if (inputStream != null) {
-            properties.load(inputStream);
+        try {
+            InputStream inputStream = classLoader.getResourceAsStream(config);
+            Properties properties = new Properties();
+            if (inputStream != null) {
+                properties.load(inputStream);
+            }
+            for (String commandClass : properties.stringPropertyNames()) {
+                String ourCommand = properties.getProperty(commandClass);
+                operations.put(ourCommand, commandClass);
+            }
+        } catch (IOException error) {
+            Calculator.logger.log(Level.SEVERE, "Config file wasn't found");
         }
-        for (String commandClass : properties.stringPropertyNames()) {
-            String ourCommand = properties.getProperty(commandClass);
-            operations.put(ourCommand, commandClass);
-        }
+        Calculator.logger.log(Level.INFO, "Factory was created!");
     }
-    Operation create(String ourCommand){
+
+    Operation load(String ourCommand) {
         Operation operation = null;
         try {
             String className = operations.get(ourCommand);
-            System.out.println(">>>>" + className);
             Class<?> chooseClass = Class.forName(className);
-            Constructor constructor = chooseClass.getDeclaredConstructor();
+            Constructor<?> constructor = chooseClass.getDeclaredConstructor();
             operation = (Operation) constructor.newInstance();
+            Calculator.logger.log(Level.INFO, "Class " + className + " was loaded!");
         } catch (ClassNotFoundException error) {
-            System.out.println("command wasn't created");
-        } catch (IllegalAccessException | InstantiationException | InvocationTargetException e) {
-            e.printStackTrace();
-        } catch (NoSuchMethodException error){
-            System.out.println("no method");
-        } catch (NullPointerException error){
-            System.out.println("oops");
+            Calculator.logger.log(Level.SEVERE, "ClassNotFoundException" + error.getMessage());
+        } catch (IllegalAccessException | InstantiationException | InvocationTargetException error) {
+            Calculator.logger.log(Level.SEVERE, error.getClass() + " " + error.getMessage());
+        } catch (NoSuchMethodException error) {
+            Calculator.logger.log(Level.SEVERE, "NoSuchMethodException: " + error.getMessage());
+        } catch (NullPointerException error) {
+            Calculator.logger.log(Level.INFO, "Turn off the application...");
             System.exit(1);
         }
         return operation;

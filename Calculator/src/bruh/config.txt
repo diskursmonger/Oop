@@ -1,10 +1,10 @@
 bruh.Comment #
-bruh.Push PUSH
-bruh.Pop POP
+bruh.Push push
+bruh.Pop pop
 bruh.Plus +
 bruh.Minus -
 bruh.Multiplication *
 bruh.Division /
-bruh.Sqrt SQRT
-bruh.Define DEFINE
-bruh.Print PRINT
+bruh.Sqrt sqrt
+bruh.Define define
+bruh.Print print

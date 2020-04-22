@@ -1,0 +1,1208 @@
+апр. 22, 2020 8:53:21 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 8:53:34 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 9:16:32 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 9:16:36 PM bruh.Factory create
+WARNING: null
+апр. 22, 2020 9:17:43 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 9:17:47 PM bruh.Factory create
+WARNING: NullPointerExceptionnull
+апр. 22, 2020 9:18:00 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 9:18:01 PM bruh.Factory create
+WARNING: NullPointerException null
+апр. 22, 2020 9:18:12 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 9:18:13 PM bruh.Factory create
+WARNING: NullPointerException: null
+апр. 22, 2020 9:20:12 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 9:20:38 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 9:20:41 PM bruh.Factory create
+WARNING: NullPointerException: null
+апр. 22, 2020 9:24:06 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 9:24:07 PM bruh.Factory create
+SEVERE: NullPointerException: null
+апр. 22, 2020 9:28:36 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 9:28:37 PM bruh.Factory create
+SEVERE: class java.lang.NullPointerException java.lang.NullPointerException
+апр. 22, 2020 9:30:19 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 9:30:20 PM bruh.Factory create
+SEVERE: java.lang.NullPointerException
+апр. 22, 2020 9:34:17 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 9:34:18 PM bruh.Factory create
+SEVERE: NullPointerException: null
+апр. 22, 2020 9:37:56 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 9:37:59 PM bruh.Factory load
+INFO: Class bruh.Pushwas loaded!
+апр. 22, 2020 9:38:09 PM bruh.Factory load
+SEVERE: NullPointerException: null
+апр. 22, 2020 9:39:18 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 9:39:19 PM bruh.Factory load
+SEVERE: Turn off the application...
+апр. 22, 2020 9:39:59 PM bruh.Calculator main
+INFO: start program
+апр. 22, 2020 9:40:01 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 9:40:05 PM bruh.Factory load
+INFO: Class bruh.Pop was loaded!
+апр. 22, 2020 9:40:07 PM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 22, 2020 9:40:36 PM bruh.Factory load
+SEVERE: Turn off the application...
+апр. 22, 2020 9:44:23 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 9:44:24 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 9:56:19 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 9:56:19 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 9:56:25 PM bruh.Factory load
+INFO: Class bruh.Define was loaded!
+апр. 22, 2020 9:56:25 PM bruh.Context addDefine
+WARNING: You try to define Double to Double
+апр. 22, 2020 9:57:14 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 9:57:14 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 9:57:19 PM bruh.Factory load
+INFO: Class bruh.Define was loaded!
+апр. 22, 2020 9:57:21 PM bruh.Factory load
+SEVERE: Turn off the application...
+апр. 22, 2020 9:57:37 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 9:57:37 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 9:57:41 PM bruh.Factory load
+INFO: Class bruh.Pop was loaded!
+апр. 22, 2020 9:59:34 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 9:59:34 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 9:59:36 PM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 22, 2020 10:01:08 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:01:08 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:01:09 PM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 22, 2020 10:01:09 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:03:37 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:03:37 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:03:39 PM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 22, 2020 10:03:39 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:11:49 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:11:49 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:11:52 PM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 22, 2020 10:11:52 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:12:16 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:12:16 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:12:19 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 10:12:25 PM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 22, 2020 10:12:29 PM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 22, 2020 10:12:32 PM bruh.Factory load
+SEVERE: Turn off the application...
+апр. 22, 2020 10:14:40 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:14:40 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:14:45 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 10:14:46 PM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 22, 2020 10:14:46 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:15:05 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:15:05 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:15:07 PM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 22, 2020 10:15:07 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:15:07 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:15:07 PM bruh.Context getDefineValue
+WARNING: There isn't define of NO
+апр. 22, 2020 10:15:07 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:15:07 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:15:07 PM bruh.Context getDefineValue
+WARNING: There isn't define of NO
+апр. 22, 2020 10:17:34 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:17:34 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:17:36 PM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 22, 2020 10:18:13 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:18:13 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:18:22 PM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 22, 2020 10:19:55 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:19:55 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:19:56 PM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 22, 2020 10:20:08 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:20:09 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:20:10 PM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 22, 2020 10:21:00 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:21:00 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:21:01 PM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 22, 2020 10:21:01 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:21:01 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:21:01 PM bruh.Context getDefineValue
+WARNING: There isn't define of 
+апр. 22, 2020 10:21:01 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:21:01 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:21:01 PM bruh.Context getDefineValue
+WARNING: There isn't define of 
+апр. 22, 2020 10:24:06 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:24:06 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:24:07 PM bruh.Factory load
+INFO: Class bruh.Plus was loaded!
+апр. 22, 2020 10:24:07 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:24:07 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:24:07 PM bruh.Context getDefineValue
+WARNING: There isn't define of 
+апр. 22, 2020 10:24:07 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:24:07 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:24:07 PM bruh.Context getDefineValue
+WARNING: There isn't define of 
+апр. 22, 2020 10:24:36 PM bruh.Factory load
+SEVERE: Turn off the application...
+апр. 22, 2020 10:25:07 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:25:07 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:25:08 PM bruh.Factory load
+INFO: Turn off the application...
+апр. 22, 2020 10:25:37 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:25:37 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:25:39 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 10:25:39 PM bruh.Context getDefineValue
+WARNING: There isn't define of a
+апр. 22, 2020 10:25:45 PM bruh.Factory load
+INFO: Class bruh.Pop was loaded!
+апр. 22, 2020 10:25:52 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:26:13 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:26:13 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:26:16 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 10:26:16 PM bruh.Context getDefineValue
+WARNING: There isn't define of a
+апр. 22, 2020 10:26:19 PM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 22, 2020 10:26:25 PM bruh.Factory load
+INFO: Class bruh.Pop was loaded!
+апр. 22, 2020 10:26:28 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:34:48 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:34:48 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:34:54 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 10:34:54 PM bruh.Context getDefineValue
+WARNING: There isn't define of a
+апр. 22, 2020 10:35:38 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:35:38 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:35:41 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 10:35:41 PM bruh.Context getDefineValue
+WARNING: There isn't define of a
+апр. 22, 2020 10:35:47 PM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 22, 2020 10:35:50 PM bruh.Factory load
+INFO: Turn off the application...
+апр. 22, 2020 10:53:26 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 10:53:26 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 10:53:28 PM bruh.Factory load
+INFO: Class bruh.Pop was loaded!
+апр. 22, 2020 10:53:28 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 10:53:31 PM bruh.Factory load
+INFO: Turn off the application...
+апр. 22, 2020 11:02:10 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:02:10 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:02:13 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 11:02:25 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:02:25 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:02:28 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 11:02:32 PM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 22, 2020 11:02:37 PM bruh.Factory load
+INFO: Class bruh.Pop was loaded!
+апр. 22, 2020 11:02:37 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:02:40 PM bruh.Factory load
+INFO: Turn off the application...
+апр. 22, 2020 11:02:51 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:02:51 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:02:54 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 11:04:24 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:04:24 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:04:28 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 11:06:44 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:06:44 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:06:47 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 11:06:47 PM bruh.Push toDo
+WARNING: Try to push uninitialized variable
+апр. 22, 2020 11:07:24 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:07:24 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:07:26 PM bruh.Factory load
+INFO: Class bruh.Pop was loaded!
+апр. 22, 2020 11:07:26 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:07:32 PM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 22, 2020 11:07:32 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:09:35 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:09:35 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:09:37 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 11:09:37 PM bruh.Push toDo
+WARNING: Try to push uninitialized variable
+апр. 22, 2020 11:10:36 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:10:36 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:10:39 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 11:10:39 PM bruh.Push toDo
+WARNING: Try to push uninitialized variable
+апр. 22, 2020 11:10:44 PM bruh.Factory load
+INFO: Class bruh.Pop was loaded!
+апр. 22, 2020 11:10:44 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:13:01 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:13:01 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:13:05 PM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 22, 2020 11:13:05 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:13:59 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:13:59 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:14:01 PM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 22, 2020 11:14:01 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:14:20 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:14:20 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:14:29 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 11:14:29 PM bruh.Push toDo
+WARNING: Try to push uninitialized variable
+апр. 22, 2020 11:14:55 PM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 22, 2020 11:15:04 PM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 22, 2020 11:15:07 PM bruh.Factory load
+INFO: Turn off the application...
+апр. 22, 2020 11:15:15 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:15:15 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:15:17 PM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 22, 2020 11:15:17 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:23:03 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:23:03 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:23:06 PM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 22, 2020 11:23:06 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:23:27 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:23:27 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:23:30 PM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 22, 2020 11:23:30 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:23:44 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:23:45 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:23:47 PM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 22, 2020 11:23:47 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:24:20 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:24:20 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:24:22 PM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 22, 2020 11:24:22 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:24:22 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:24:22 PM bruh.Sqrt toDo
+WARNING: Try to sqrt nothing
+апр. 22, 2020 11:28:36 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:28:36 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:28:43 PM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 22, 2020 11:28:43 PM bruh.Print toDo
+INFO: Nothing to print
+апр. 22, 2020 11:28:44 PM bruh.Factory load
+INFO: Turn off the application...
+апр. 22, 2020 11:28:54 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:28:54 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:28:56 PM bruh.Factory load
+INFO: Class bruh.Plus was loaded!
+апр. 22, 2020 11:28:56 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:28:56 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:28:56 PM bruh.Context getDefineValue
+WARNING: There isn't define of 
+апр. 22, 2020 11:28:56 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:28:56 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:28:56 PM bruh.Context getDefineValue
+WARNING: There isn't define of 
+апр. 22, 2020 11:31:00 PM bruh.Factory load
+INFO: Turn off the application...
+апр. 22, 2020 11:31:04 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:31:04 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:31:06 PM bruh.Factory load
+INFO: Turn off the application...
+апр. 22, 2020 11:31:28 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:31:28 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:31:30 PM bruh.Factory load
+INFO: Class bruh.Division was loaded!
+апр. 22, 2020 11:31:30 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:31:30 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:31:30 PM bruh.Context getDefineValue
+WARNING: There isn't define of 
+апр. 22, 2020 11:31:30 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:31:30 PM bruh.Context popStack
+WARNING: Stack is empty
+апр. 22, 2020 11:31:30 PM bruh.Context getDefineValue
+WARNING: There isn't define of 
+апр. 22, 2020 11:31:41 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:31:41 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:32:11 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:32:11 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:32:16 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 11:32:23 PM bruh.Factory load
+INFO: Class bruh.Division was loaded!
+апр. 22, 2020 11:32:29 PM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 22, 2020 11:33:05 PM bruh.Factory load
+INFO: Turn off the application...
+апр. 22, 2020 11:34:52 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:34:52 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:34:55 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 11:34:57 PM bruh.Factory load
+INFO: Class bruh.Division was loaded!
+апр. 22, 2020 11:35:14 PM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 22, 2020 11:35:29 PM bruh.Factory load
+INFO: Turn off the application...
+апр. 22, 2020 11:35:46 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:35:46 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:35:51 PM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 22, 2020 11:35:54 PM bruh.Factory load
+INFO: Class bruh.Division was loaded!
+апр. 22, 2020 11:36:11 PM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 22, 2020 11:36:38 PM bruh.Factory load
+INFO: Turn off the application...
+апр. 22, 2020 11:50:26 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:50:26 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:52:16 PM bruh.Calculator main
+INFO: Start app
+апр. 22, 2020 11:52:16 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 22, 2020 11:52:16 PM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:11:11 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:11:11 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:11:24 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:12:03 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:12:03 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:12:07 AM bruh.Factory load
+INFO: Turn off the application...
+апр. 23, 2020 12:15:47 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:15:47 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:16:21 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:16:21 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:17:08 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:17:08 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:17:08 AM bruh.Factory load
+INFO: Turn off the application...
+апр. 23, 2020 12:17:56 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:17:56 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:18:25 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:18:25 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:18:25 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:18:25 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:18:25 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:18:25 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:18:25 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:23:30 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:23:30 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:23:30 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:23:30 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:23:30 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:23:30 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:23:30 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:25:00 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:25:00 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:25:01 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:25:01 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:25:01 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:25:01 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:25:01 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:25:24 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:25:24 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:25:24 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:25:24 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:25:24 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:25:24 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:25:24 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:29:51 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:29:51 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:29:52 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:29:52 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:29:52 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:29:52 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:29:52 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:30:16 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:30:16 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:30:16 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:30:16 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:30:16 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:30:16 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:30:16 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:31:26 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:31:26 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:31:26 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:31:26 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:31:26 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:31:26 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:31:26 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:31:46 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:31:46 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:31:46 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:31:46 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:31:46 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:31:46 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:31:46 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:32:30 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:32:31 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:32:31 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:32:31 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:32:31 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:32:31 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:32:31 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:33:09 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:33:09 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:33:09 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:33:09 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:33:09 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:33:09 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:33:09 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:33:17 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:33:17 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:33:17 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:33:17 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:33:17 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:33:17 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:33:17 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:33:27 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:33:27 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:33:27 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:33:27 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:33:27 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:33:27 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:33:27 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:33:39 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:33:39 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:33:39 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:33:39 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:33:39 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:33:39 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:33:39 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:35:26 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:35:26 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:35:26 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:35:26 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:35:26 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:35:26 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:35:26 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:37:56 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:37:56 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:37:56 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:37:56 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:37:56 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:37:56 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:37:56 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:37:56 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:37:56 AM bruh.Factory load
+INFO: Turn off the application...
+апр. 23, 2020 12:39:39 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:39:39 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:39:40 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:39:40 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:39:40 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:39:40 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:39:40 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:39:40 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:39:45 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:40:38 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:40:38 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:40:38 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:40:39 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:40:39 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:40:39 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:40:39 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:40:39 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:40:43 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:40:44 AM bruh.Factory load
+INFO: Turn off the application...
+апр. 23, 2020 12:41:56 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 12:41:56 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:41:57 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 12:41:57 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 12:41:57 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 12:41:57 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 12:41:57 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 12:41:57 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 12:41:57 AM bruh.Factory load
+INFO: Turn off the application...
+апр. 23, 2020 1:52:42 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 1:52:42 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 1:52:42 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 1:52:42 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 1:52:42 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 1:52:42 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 1:52:42 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 1:52:42 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 1:52:42 AM bruh.Factory load
+INFO: Turn off the application...
+апр. 23, 2020 1:53:10 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 1:53:10 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 1:53:10 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 1:53:10 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 1:53:10 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 1:53:10 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 1:53:10 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 1:53:11 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 1:53:11 AM bruh.Factory load
+INFO: Turn off the application...
+апр. 23, 2020 2:02:31 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:02:31 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:02:31 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:02:31 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:02:31 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:02:31 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:02:31 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:02:48 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:02:48 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:02:48 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:02:48 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:02:48 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:02:48 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:02:48 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:03:01 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:03:01 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:03:01 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:03:01 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:03:01 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:03:01 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:03:01 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:03:29 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:03:29 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:03:29 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:03:29 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:03:29 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:03:29 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:03:29 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:05:20 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:05:20 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:05:20 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:05:20 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:05:20 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:05:20 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:05:32 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:05:32 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:05:32 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:05:32 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:05:32 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:05:32 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:05:32 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:07:54 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:07:54 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:07:54 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:07:54 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:07:54 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:07:54 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:07:54 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:09:30 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:09:30 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:09:30 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:09:30 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:09:30 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:09:30 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:09:30 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:13:03 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:13:03 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:13:03 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:13:03 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:13:03 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:13:03 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:13:03 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:16:05 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:16:05 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:16:05 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:16:05 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:16:05 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:16:05 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:16:05 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:16:15 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:16:16 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:16:16 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:16:16 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:16:16 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:16:16 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:16:16 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:16:29 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:16:29 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:16:29 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:16:29 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:16:29 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:16:29 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:16:29 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:16:41 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:16:41 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:16:41 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:16:41 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:16:41 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:16:41 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:16:41 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:18:04 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:18:04 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:18:04 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:18:04 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:18:04 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:18:04 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:18:04 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:19:52 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:19:52 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:19:52 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:19:52 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:19:52 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:19:52 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:19:52 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:22:52 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:22:52 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:22:52 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:22:52 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:22:52 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:22:52 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:22:52 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:22:59 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:22:59 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:22:59 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:22:59 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:22:59 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:22:59 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:22:59 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:23:07 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:23:07 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:23:07 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:23:07 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:23:07 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:23:07 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:23:07 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:26:07 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:26:07 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:26:07 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:26:07 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:26:07 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:26:07 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:26:07 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:26:07 AM bruh.Context popStack
+WARNING: Stack is empty
+апр. 23, 2020 2:26:07 AM bruh.Context popStack
+WARNING: Stack is empty
+апр. 23, 2020 2:26:07 AM bruh.Sqrt toDo
+WARNING: Try to sqrt nothing
+апр. 23, 2020 2:26:39 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:26:39 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:26:39 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:26:39 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:26:39 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:26:39 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:26:39 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:31:18 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:31:18 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:31:18 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:31:18 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:31:18 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:31:18 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:31:18 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:38:06 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:38:06 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:38:07 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:38:07 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:38:07 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:38:07 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:38:07 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:40:07 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:40:07 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:40:07 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:40:07 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:40:07 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:40:07 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:40:07 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
+апр. 23, 2020 2:41:42 AM bruh.Calculator main
+INFO: Start app
+апр. 23, 2020 2:41:42 AM bruh.Factory <init>
+INFO: Factory was created!
+апр. 23, 2020 2:41:42 AM bruh.Factory load
+INFO: Class bruh.Push was loaded!
+апр. 23, 2020 2:41:42 AM bruh.Factory load
+INFO: Class bruh.Multiplication was loaded!
+апр. 23, 2020 2:41:42 AM bruh.Factory load
+INFO: Class bruh.Print was loaded!
+апр. 23, 2020 2:41:42 AM bruh.Factory load
+INFO: Class bruh.Sqrt was loaded!
+апр. 23, 2020 2:41:42 AM bruh.Factory load
+INFO: Class bruh.Comment was loaded!
