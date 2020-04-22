@@ -1,0 +1,6 @@
+G occurs 1 times
+O occurs 2 times
+P occurs 1 times
+D occurs 1 times
+S occurs 1 times
+I occurs 1 times
