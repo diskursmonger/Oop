@@ -1,0 +1,10 @@
+PUSH 5
+PUSH 2
+*
+PRINT
+PUSH 8
+*
+PRINT
+SQRT
+PRINT
+# haliluja haaaaaliluja hdhdhd

@@ -1,0 +1,10 @@
+bruh.Comment #
+bruh.Push PUSH
+bruh.Pop POP
+bruh.Plus +
+bruh.Minus -
+bruh.Multiplication *
+bruh.Division /
+bruh.Sqrt SQRT
+bruh.Define DEFINE
+bruh.Print PRINT
